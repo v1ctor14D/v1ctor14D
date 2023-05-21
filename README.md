@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on multimedia art development 
 - 📫 How to reach me: Send me an email
 
-From Buenos Aires, Argentina
+From Buenos Aires, Argentina. Spanish and English Speaker
 
 <!---
 v1ctor14D/v1ctor14D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
